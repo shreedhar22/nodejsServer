@@ -6,8 +6,8 @@ var machineSerialNum = "56748947596";
 var db = null, gumball = null;
 
 var dbDetails = {"host" : "root:root@ds063170.mongolab.com",
-		 "port" : 43350,
-		 "databaseName" : "mongodb"};
+		 "port" : 63170,
+		 "databaseName" : "gumballshree"};
 
 
 getGumball = function(callback) {

@@ -5,9 +5,9 @@ var secretKey = "69F5748D867R2635C2FB44F27SH8H";
 var machineSerialNum = "56748947596";
 var db = null, gumball = null;
 
-var dbDetails = {"host" : "root:root@ds063170.mongolab.com",
-		 "port" : 63170,
-		 "databaseName" : "gumballshree"};
+var dbDetails = {"host" : "mahesh:bingi@ds043350.mongolab.com",
+		 "port" : 43350,
+		 "databaseName" : "mongodb"};
 
 
 getGumball = function(callback) {
